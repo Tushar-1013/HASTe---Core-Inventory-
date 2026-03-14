@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -76,3 +77,6 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/c
 Hi there ,
 we students of GMCA are exited for the ODDO Hackaton
 >>>>>>> d3ba898d3f4b433cb648918786e40397f0a1a6c4
+=======
+Hi there i am Shlok
+>>>>>>> c2dd9089861ff914310a585eb952e19980b18fab
